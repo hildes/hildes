@@ -1,4 +1,6 @@
-## Hi there 👋
+- Age $\in\mathbb{N}$
+- YOE $=3$
+- Height $\in\mathbb{R}$
 
 <!--
 **hildes/hildes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
